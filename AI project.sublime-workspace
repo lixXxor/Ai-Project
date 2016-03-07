@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fis",
+				"fishbutton"
+			],
+			[
+				"ini",
+				"initSpeed"
+			],
+			[
+				"0xf",
+				"0x77bbff"
+			],
+			[
+				"Mesh",
+				"MeshBasicMaterial"
+			],
+			[
+				"ocl",
+				"oclScene"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"vlight",
+				"vlightConfig"
+			],
+			[
+				"vl",
+				"vlightConfigData"
+			],
+			[
+				"SCRE",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCREEN_",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"oclC",
+				"oclCamera"
+			],
+			[
+				"renderMo",
+				"renderModelOcl"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"re",
+				"renderTarget"
+			],
+			[
+				"renderTa",
+				"renderTargetOcl"
+			],
+			[
+				"add",
+				"addPass"
+			],
+			[
+				"spe",
+				"sphereGeoClone"
+			],
+			[
+				"sphere",
+				"sphereGeo"
+			],
+			[
+				"SCREE",
+				"SCREEN_WIDTH"
+			],
+			[
+				"z-i",
+				"z-index"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"border-rigth",
+				"border-right"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bord",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 414,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mike/SkyDrive/Skola/TNM095 -AI Graphics/Cozy-Ai-Project-AIAIAI/generation.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM095 -AI Graphics/Cozy-Ai-Project-AIAIAI/fish.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/myStyle.css",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/myScript.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/mrdoob-three.js-d3cb4e7/src/renderers/shaders/ShaderChunk.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/mrdoob-three.js-d3cb4e7/examples/js/ShaderGodRays.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/index.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/mrdoob-three.js-d3cb4e7/src/Three.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/mrdoob-three.js-d3cb4e7/src/renderers/shaders/UniformsLib.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/mrdoob-three.js-d3cb4e7/src/renderers/shaders/UniformsUtils.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/mrdoob-three.js-d3cb4e7/src/renderers/shaders/ShaderLib.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/EmailWebpage.sublime-project",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/prototype_Email.php",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/index.php",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/Google/Client.php",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/Google/Auth/Simple.php",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/myScript.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/prototype_Email",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/mystyle.css",
+		"/F/Dropbox/Dropbox/DRÄGG/TNM085/Wernis tuffe uffelåda/test_2/main.cpp",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/apache/codeIgniter/application/config/config.php",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"school",
+			"camera",
+			"projectOnScreen",
+			");",
+			"renderModel",
+			"tadd",
+			"copy",
+			"();\n",
+			"webki",
+			"screenSpacePosition",
+			"sunPosition",
+			"sun",
+			"1",
+			"cube",
+			"setstate",
+			"set",
+			">\n",
+			"62686B"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AI project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Fishy.cs">
+    <Files>
+      <File FileName="Assets\FishSpawner.cs" Line="156" Column="1" />
+      <File FileName="Assets\FoodSpawner.cs" Line="61" Column="1" />
+      <File FileName="Assets\FishScript.cs" Line="198" Column="1" />
+      <File FileName="Assets\GameTime.cs" Line="201" Column="1" />
+      <File FileName="Assets\FoodScript.cs" Line="33" Column="2" />
+      <File FileName="Assets\Fishy.cs" Line="66" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
